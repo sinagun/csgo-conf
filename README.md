@@ -6,4 +6,18 @@
 <h1 align="center">Csgo config</h1>
 
 
-What is included?
+##What is included?
+
+<ul>
+<li>Server</li>
+  <ul>
+  <li>server config</li>
+  <li>server mod</li>
+  </ul>
+  <li>Tea</li>
+  <li>Milk</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
