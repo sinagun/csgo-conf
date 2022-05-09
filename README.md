@@ -6,7 +6,7 @@
 <h1 align="center">Csgo configs</h1>
 
 
-##What is included?
+What is included?
 <details>
 <summary>Server</summary>
 <ul>
