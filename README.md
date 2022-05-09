@@ -6,4 +6,4 @@
 <h1 align="center">Csgo config</h1>
 
 
-What is incluld?
+What is included?
