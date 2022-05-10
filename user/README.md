@@ -5,3 +5,17 @@
   </a>
 </p>
 <h1 align="center">Csgo configs</h1>
+<br>
+<h2 align="center">Launch Options</h2>
+<p>
+
+go to steam, and go to csgo page with the following Manage/Properties
+<img src="/etc/LaunchOptions-2.png"/>
+/General/Launch Options
+<img src="/etc/LaunchOptions-1.png"/>
+copy and past the following in the box :
+
+`+exec user.cfg -novid -tickrate 128 +fps_max 0 -nojoy -high -fullscreen`
+
+you can add more launch options if you want.
+</p>
