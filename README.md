@@ -6,7 +6,8 @@
 <h1 align="center">Csgo configs</h1>
 
 
-What is included?
+<h3>What is included ?</h3>
+
 <details>
 <summary>Server</summary>
 <ul>
@@ -20,7 +21,8 @@ What is included?
   <li>user config</li>
   <li>user graphic/video</li>
   <li>user keybord layout</li>
-  <li>user training</li>
+  <li>user training server</li>
+  <li>user launch options</li>
 </ul>  
 </details>
 <details>
@@ -33,6 +35,12 @@ What is included?
 </details>
 
 
+<h3>how to use ?</h3>
+for Users read the  : csgo-conf/user/README.md
+<br>
+for Server read the : csgo-conf/Server/README.md
+<br>
+for Script read the : csgo-conf/script/README.md
 
 
 
