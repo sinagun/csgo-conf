@@ -4,7 +4,20 @@
     <img src="https://img.icons8.com/color/200/000000/counter-strike-source.png"/>
   </a>
 </p>
-<h1 align="center">Csgo configs</h1>
+<h1 align="center">user configs</h1>
+
+
+
+<ul>
+  <li>user launch options</li>
+  <li>user config</li>
+  <li>user graphic/video</li>
+  <li>user keybord layout</li>
+  <li>user training server</li>  
+</ul>  
+
+
+
 <br>
 <h2 align="center">Launch Options</h2>
 <p align="center">
