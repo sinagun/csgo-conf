@@ -40,7 +40,8 @@ General>Launch Options
 
 
 
-<h4 align="center">user config and graphic/video and keybord layout and training server </h4>
+## <h3 align="center">user config and graphic/video and keybord layout and training server </h3>
+
 <p>
 go to steam, folder csgo,:
 
