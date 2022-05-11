@@ -36,3 +36,18 @@ General>Launch Options
  you can add more launch options if you want.
  </p>
 </p>
+
+
+
+
+<h4 align="center">user config and graphic/video and keybord layout and training server </h4>
+<p>
+go to steam, folder csgo,:
+
+`C:\Program Files (x86)\Steam\userdata\54654646\730\local\cfg`
+
+copy and past the following in file in the folder :
+
+`user.cfg`,`usert.cfg`,`config.cfg`,`video.txt`
+
+</p>
